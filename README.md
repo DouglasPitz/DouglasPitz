@@ -27,6 +27,6 @@
     <p>You can find me on:</p>
     <ul>
         <li><a href="https://github.com/douglaspitz" target="_blank">GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/douglaspitz" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/douglas-pitz-a08a96197/?originalSubdomain=br" target="_blank">LinkedIn</a></li>
     </ul>
 </body>
