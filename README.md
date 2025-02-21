@@ -23,12 +23,19 @@
 </details>
 
 <!-- Links -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-pitz-a08a96197/?originalSubdomain=br)
+<p align="left">
+  <a href="https://www.linkedin.com/in/douglas-pitz-a08a96197/?originalSubdomain=br">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <!-- GithubStats -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=douglaspitz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=douglaspitz&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats">
+  </a>
+</p>
 <!-- Portfolio -->
 <!--## Portfolio:
 - [Seaborn Data Visualization](https://github.com/)
